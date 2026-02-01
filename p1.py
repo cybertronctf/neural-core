@@ -1,1 +1,1 @@
-print("neural-core UPDATE2")
+print("neural-core FIX2")
